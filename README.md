@@ -17,11 +17,6 @@
 
 <br>
 
-<div align="center">
-<img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ohidurbappy&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
-</div>
-
-
 ## 📩 Connect with me
 <p align="center">
     <a href="mailto:mahmoudalimohamedhusseinharedy@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
@@ -37,6 +32,11 @@
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
 </p>
+
+<div align="center">
+<img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ohidurbappy&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
+</div>
+
 
 
   

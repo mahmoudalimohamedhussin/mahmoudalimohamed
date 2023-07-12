@@ -21,7 +21,7 @@
 <p align="center">
     <a href="mailto:mahmoudalimohamedhusseinharedy@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 	<a href="https://www.linkedin.com/in/mahmoudalimohamed" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-	<a href="https://www.linkedin.com/in/mahmoudalimohamed" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> 
+	<a href="https://www.facebook.com/mahamoed.ali" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> 
 </p>
 
 ## 🛠 Languages and Tools

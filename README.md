@@ -7,7 +7,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I am a `Computer Science Fresh Graduate` from Faculty of Computers & Information at Assiut University
+- :school: I am a `Computer Science Graduate` from Faculty of Computers & Information at Assiut University
 - 🔭 I’m currently working on [Data Analyst]
 - 🌱 I’m currently studing `Data Analyst`
 - 📫 How to reach me **mahmoudalimohamedhusseinharedy@gmail.com
@@ -22,7 +22,7 @@
 <p align="center">
     <a href="mailto:mahmoudalimohamedhusseinharedy@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/manarshahin48" title="Facebook"><img src="https://www.facebook.com/mahamoed.ali/-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/manarshahin48/" title="LinkedIn"><img src=www.linkedin.com/in/mahmoudalimohamed-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+    <a href="https://www.linkedin.com/in/manarshahin48/" title="LinkedIn"><img src="https://www.linkedin.com/in/mahmoudalimohamed-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
 ## 🛠 Languages and Tools

@@ -31,7 +31,7 @@
 <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
-	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="Power Bi"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Power Bi"></a>
+	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="Power Bi"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=power bi&logoColor=white" alt="Power Bi"></a>
 </p>
 
 ## 📊 Github Stats

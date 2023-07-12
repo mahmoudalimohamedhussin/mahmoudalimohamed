@@ -14,9 +14,7 @@
 - :thinking: I’m currently open for: new `job opportunity`
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
-
 <br>
-
 ## 📩 Connect with me
 <p align="center">
     <a href="mailto:mahmoudalimohamedhusseinharedy@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> 

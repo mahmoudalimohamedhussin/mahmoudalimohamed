@@ -31,7 +31,7 @@
 <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
-	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="Power Bi"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=power bi&logoColor=white" alt="Power Bi"></a>
+	<a href="https://docs.microsoft.com/en-us/dotnet/Power bi/" title="Power Bi"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=power bi bi&logoColor=white" alt="Power Bi"></a>
 </p>
 
 ## 📊 Github Stats
@@ -40,7 +40,7 @@
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudalimoahmed&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>

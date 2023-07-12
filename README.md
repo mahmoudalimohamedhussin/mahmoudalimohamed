@@ -14,9 +14,6 @@
 - :thinking: I’m currently open for: new `job opportunity`
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
-<div align="center">
-<img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ohidurbappy&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
-</div>
 
 <br>
 

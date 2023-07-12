@@ -20,7 +20,7 @@
 ## 📩 Connect with me
 <p align="center">
     <a href="mailto:mahmoudalimohamedhusseinharedy@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-	<a href="mailto:mahmoudalimohamedhusseinharedy@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+	<a href="mailto:www.linkedin.com/in/mahmoudalimohamed" title="Linkedin"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 </p>
 
 ## 🛠 Languages and Tools

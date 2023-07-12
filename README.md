@@ -17,6 +17,11 @@
 
 <br>
 
+<div align="center">
+<img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ohidurbappy&column=-1&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15"/>
+</div>
+
+
 ## 📩 Connect with me
 <p align="center">
     <a href="mailto:mahmoudalimohamedhusseinharedy@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
